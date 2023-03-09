@@ -1,6 +1,13 @@
 ### Hi 👋, I'm Mr.Developer
 
 
+
+
+
+
+
+
+
 - 🔭 I’m currently working on ...
 - 
 - 🌱 I’m currently learning ...
