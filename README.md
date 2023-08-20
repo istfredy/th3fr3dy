@@ -1,19 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Fredy Taboutsa(MrDeveloper01010)</h1>
-<h3 align="center">A passionate Software Engineer 👨‍💻😉</h3>
+<h1 align="center">Hi 👋, I'm Fredy ⚙️</h1>
+<h3 align="center">A passionate Software Engineer 👨‍💻</h3>
 <img align="right" alt="codinglife" width="400" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
 
 <p align="left"> <a href="https://twitter.com/taboutsafredy" target="blank"><img src="https://img.shields.io/twitter/follow/taboutsafredy?logo=twitter&style=for-the-badge" alt="taboutsafredy" /></a> </p>
 
-- 🔭 I’m currently working on **Email Template Generator**
-
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://mrdeveloper01010.github.io/MrDeveloper01010/](https://mrdeveloper01010.github.io/MrDeveloper01010/)
-
 - 💬 Ask me about **JavaScript, Python and React**
-
-- 📫 How to reach me **taboutsafredy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
